@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets/imagenes/foto.jpeg"
     },
     {
+      "Id": "/Users/danielestrada/Projects/Portafolio/Portafolio/wwwroot/imagenes/logonet.png",
+      "PackagePath": "staticwebassets/imagenes/logonet.png"
+    },
+    {
       "Id": "/Users/danielestrada/Projects/Portafolio/Portafolio/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

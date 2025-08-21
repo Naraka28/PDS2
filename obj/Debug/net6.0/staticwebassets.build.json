@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g1QDEzZCXx3HiehjGPH1a+OPQJ/MqOxqZFdHWuxr43M=",
+  "Hash": "BXPrLYkFZXL3VvWqH5FYCpl8a5bwLATuZiyNeqdfS+4=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/imagenes/foto.jpeg"
+    },
+    {
+      "Identity": "/Users/danielestrada/Projects/Portafolio/Portafolio/wwwroot/imagenes/logonet.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danielestrada/Projects/Portafolio/Portafolio/wwwroot/",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/logonet.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imagenes/logonet.png"
     },
     {
       "Identity": "/Users/danielestrada/Projects/Portafolio/Portafolio/wwwroot/js/site.js",
